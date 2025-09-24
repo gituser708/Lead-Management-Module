@@ -10,9 +10,9 @@ const app = express();
 
 //! Cors setup
 app.use(
-    cors({
-        origin: 'http://localhost:5173',
-    }),
+  cors({
+    origin: 'https://lead-management-module-neon.vercel.app',
+  })
 );
 
 //! express middleware for passing incoming json request

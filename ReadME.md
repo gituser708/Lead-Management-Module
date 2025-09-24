@@ -11,7 +11,8 @@ that capture user data and display in lists.
 
 ## 🌐 Live API
 
-[https://extraker-project-server.onrender.com]
+- Frontend ['https://lead-management-module-neon.vercel.app'],
+- Backend ['']
 
 ## 🧰 Tech Stack
 
