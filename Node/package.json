@@ -1,0 +1,21 @@
+{
+  "name": "lead-management-module",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a full stack lead management module project",
+  "main": "app.js",
+  "author": "Somenath Das",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "libphonenumber-js": "^1.12.18",
+    "mongoose": "^8.18.1"
+  }
+}
